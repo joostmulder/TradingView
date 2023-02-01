@@ -7,4 +7,4 @@ This plot helps you to show estimate earnings, reported earnings, and surprise e
 - Earnings is a company's reported profits (or sometimes a loss if going negative) in a given quarter or fiscal year.
 - Surprise earnings is an earning (or sometimes a loss if going negative) which is above (or even below) the estimated or reported earnings.
 
-[TradingView Indicator Link](https://www.tradingview.com/script/LVfJ9vtY-Estimate-Earnings-Surprise-Earnings/)
+[TradingView Indicator Link](https://www.tradingview.com/script/LVfJ9vtY-Estimate-Earnings-Surprise-Earnings/) 
